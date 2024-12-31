@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @legkvla
 - 👀 I’m interested in Clojure
-- 💞️ I’m looking to collaborate on Web3 projects
 - 📫 How to reach me https://t.me/vl_42
 
 <!---
